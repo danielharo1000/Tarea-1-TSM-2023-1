@@ -15,8 +15,6 @@
   - [Objetivo](#objetivo)
   - [Introducción](#introducción)
   - [Desarrollo](#desarrollo)
-  - [**Escribir expresiones en línea**](#escribir-expresiones-en-línea)
-  - [**Escribir expresiones como bloque**](#escribir-expresiones-como-bloque)
   - [Conclusiones](#conclusiones)
   - [Autor](#autor)
   - [Referencias](#referencias)
